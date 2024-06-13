@@ -1,21 +1,50 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
-heroImage: 
-  src: '/blog-placeholder-5.jpg'
-  alt: 'blog placeholder'
-tags: ["placeholder", "test"]
-updatedDate: 'Sep 10 2022'
-series: "example"
+title: "ブログ始めます"
+description: "所信表明とか"
+pubDate: "Jun 13 2024"
+heroImage:
+  src: "/first-post.jpg"
+  alt: "a sunrise in Hampi, India"
+tags: ["life"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+# ヘッダー画像について
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+ヘッダー画像はインドの北西にある[ハンピ](<https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%94_(%E3%82%A4%E3%83%B3%E3%83%89)>)の丘から撮った日の出です。何だか始まりっぽい感じがするので載せました。
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+# なぜブログを始めるか
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+突然ですがブログを始めようと思います。理由は主に以下の 3 つです。
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+1. 思考訓練をするため
+2. 文章を書くのに慣れるため
+3. 思考のスナップショットを残していくため
+
+## 思考訓練をするため
+
+日頃、仕事やプライベートで思考訓練をしていて、議論できるレベルまで練りきらずに立ち消えることが多くありました。 (例: 起業のアイデア、FE のアーキテクチャ、人生設計など)
+
+このブログではその思考訓練をパブリックに公開できる範囲でもう一歩踏み出して、日頃議論できる内容を増やして行きたいと考えています。 (最近こんなこと考えているんだよねーをサッと送れるのって便利ですよね)
+
+## 文章を書くのに慣れるため
+
+過去、[所属していた会社で記事を書かせていただいた](https://tech.buysell-technologies.com/entry/adventcalendar2023-12-19)際に、かなり遅筆 & 粗が目立ったと個人的に感じたので、自分しか見ない殴り書きではなく、不特定多数に見える形で文章を定期的に上げることで文章力を上げて行きたいです。
+
+英語を仕事で使う機会も増えてきそうなので、英語記事も出せたらいいなと考えています。
+
+## 思考のスナップショットを残していくため
+
+人の思考は日々変わりゆくものだと最近痛感しています。「めちゃ良いこと考えた！ -> 少し経って粗に気づく」の繰り返しこそが人生だと思うのですが、その過程を綴っていくことによって、PDCA を回しやすくなるし、あるいは本当に良いことを考えていた場合に良さに気づきやすくもあると考えています。
+
+# どういう技術スタックで動いているか
+
+[Astro](https://astro.build/)を[Vercel](https://vercel.com/docs)にホスティングして動かしています。
+とにかく楽に早く安くブログの基盤をモダンに作りたかったので、この構成にしました。
+はてなブログや note を使うことも考えましたが、デザインに凝りたかったのと、技術の実験場に使いたかったので、自分でブログを作るに至りました。
+
+サイトのテンプレートには [Cody](https://astro.build/themes/details/cody/) を使っています。
+見た目が hacker っぽくて気に入っています。余力があればもっと Matrix に寄せて行きたい、、 (Matrix を見てエンジニアになろうと思った)
+
+# まとめ
+
+ほどほどに更新して行きます！よろしくお願いします！
