@@ -39,14 +39,9 @@ export const socialLinks: Array<SocialLink> = [
     link: "https://github.com/kazizi55",
   },
   {
-    icon: "mdi:linkedin",
-    friendlyName: "LinkedIn",
-    link: "https://www.linkedin.com/in/kazuya-iijima-21b051227/",
-  },
-  {
-    icon: "mdi:email",
-    friendlyName: "email",
-    link: "mailto:kaz.redhot1201@gmail.com",
+    icon: "mdi:twitter",
+    friendlyName: "X",
+    link: "https://twitter.com/kazizi55",
   },
 ];
 
