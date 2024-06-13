@@ -1,54 +1,40 @@
 ---
 import Layout from "../layouts/Base.astro";
+import Link from "../components/Link.astro";
 ---
 
 <Layout
-  title="About Me"
+  title="Home"
   description="Lorem ipsum dolor sit amet"
   image="/blog-placeholder-about.jpg"
 >
   <h1 class="title">About</h1>
-  <p>
-    Hi, I'm a Astro theme. I'm particularly great for starting a blog or a
-    portfolio.
-    <div>
-      I was based on two other themes:
-      <a
-        class="cody-link"
-        href="https://astro-theme-cactus.netlify.app"
-        target="_blank"
-        rel="noopener noreferrer">Astro Cactus</a
-      >
-      and
-      <a
-        class="cody-link"
-        target="_blank"
-        rel="noopener noreferrer"
-        href="https://risotto.joeroe.io">Risotto</a
-      >.
+  <div class="mx-auto flex max-w-fit flex-col items-center gap-5 sm:flex-row">
+    <div class="m-auto min-w-fit">
+      <img
+        src="/profile.jpeg"
+        alt="kazizi"
+        class="h-24 w-24 rounded-full md:h-32 md:w-32"
+      />
     </div>
-  </p>
-
-  <h2 class="title mt-4">Here are my built-in features:</h2>
-  <ul class="list-inside list-disc">
-    <li>Looks great on any device</li>
-    <li>Fully Responsive</li>
-    <li>Comes light and dark mode</li>
-    <li>Easy to customize and add content</li>
-    <li>Built with tailwindcss</li>
-    <li>Pin posts and projects</li>
-  </ul>
-  <p class="mt-4">
-    Clone or fork my
-    <a
-      class="cody-link inline-block"
-      href="https://github.com/kirontoo/astro-theme-cody"
-      target="_blank"
-      rel="noopener noreferrer"
-      aria-label="github repository"
-    >
-      repo
-    </a>
-    if you like me!
-  </p>
+    <p class="flex-auto xl:text-lg">
+      Kazizi is a software engineer with a passion for building web
+      applications.<br />
+      Currently I work as a frontend web developer in <Link
+        href="https://corp.moneyforward.com/en/"
+        title="Money Forward, Inc."
+        data-astro-prefetch
+        target="_blank"
+        rel="noopener noreferrer">Money Forward, Inc.</Link
+      > that is a financial IT company in Japan.
+    </p>
+  </div>
+  <h1 class="title mt-4">Job History</h1>
+  <Link
+    href="https://github.com/kazizi55/resume/blob/main/README.md"
+    title="resume"
+    data-astro-prefetch
+    target="_blank"
+    rel="noopener noreferrer">Resume</Link
+  >
 </Layout>
