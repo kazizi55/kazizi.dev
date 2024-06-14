@@ -7,7 +7,6 @@ type Config = {
   lang: string;
   profile: {
     author: string;
-    description?: string;
   };
 };
 
@@ -23,7 +22,6 @@ export const siteConfig: Config = {
   lang: "en-GB",
   profile: {
     author: "Kazuya Iijima",
-    description: "your bio description",
   },
 };
 
