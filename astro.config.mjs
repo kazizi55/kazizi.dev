@@ -2,8 +2,8 @@ import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { remarkReadingTime } from './src/utils/remark-reading-time.mjs';
-import vercel from '@astrojs/vercel/serverless';
 import tailwind from "@astrojs/tailwind";
+import vercel from '@astrojs/vercel/static';
 
 // https://astro.build/config
 export default defineConfig({
@@ -20,9 +20,10 @@ export default defineConfig({
       },
     }
   },
-  output: 'server',
   adapter: vercel({
-    webAnalytics: { enabled: true }
+    webAnalytics: {
+      enabled: true,
+    },
   }),
 });
 
