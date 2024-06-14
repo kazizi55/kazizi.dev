@@ -2,9 +2,11 @@
 title: "ブログ始めます"
 description: "所信表明とか"
 pubDate: "Jun 13 2024"
+updatedDate: "Jun 14 2024"
 heroImage:
   src: "/first-post.jpg"
   alt: "a sunrise in Hampi, India"
+ogImage: "/first-post.jpg"
 tags: ["life"]
 ---
 
